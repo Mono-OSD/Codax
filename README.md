@@ -1,2 +1,2 @@
 # Codax
-A "setup wizard" for anything terminal related.
+A set of helpful utilities to help you with terminal programs.
